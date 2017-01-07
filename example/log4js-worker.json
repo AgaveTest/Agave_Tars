@@ -1,4 +1,0 @@
-{
-    "appenders": [{
-        "type": "clustered"
-    }]}
