@@ -1,0 +1,23 @@
+{
+  "name": "chat.in",
+  "version": "0.0.2",
+  "dependencies": {
+    "body-parser": "1.4.3",
+    "express": "4.14.0",
+    "jade": "^1.11.0",
+    "mongoose": "2.5.10",
+    "multer": "1.0.5",
+    "socket.io": "0.9.2",
+    "superagent": "0.3.0",
+    "log4js":"*",
+    "request-json":"0.6.1",
+    "moment": "*",
+    "async":"*"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "17.0.0"
+  }
+}
